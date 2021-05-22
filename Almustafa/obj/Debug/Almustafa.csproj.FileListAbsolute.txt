@@ -1,0 +1,10 @@
+c:\users\sadaqat\documents\visual studio 2013\Projects\Almustafa\Almustafa\bin\Debug\Almustafa.exe.config
+c:\users\sadaqat\documents\visual studio 2013\Projects\Almustafa\Almustafa\bin\Debug\Almustafa.exe
+c:\users\sadaqat\documents\visual studio 2013\Projects\Almustafa\Almustafa\bin\Debug\Almustafa.pdb
+c:\users\sadaqat\documents\visual studio 2013\Projects\Almustafa\Almustafa\bin\Debug\MetroFramework.dll
+c:\users\sadaqat\documents\visual studio 2013\Projects\Almustafa\Almustafa\obj\Debug\Almustafa.csprojResolveAssemblyReference.cache
+c:\users\sadaqat\documents\visual studio 2013\Projects\Almustafa\Almustafa\obj\Debug\Almustafa.Form1.resources
+c:\users\sadaqat\documents\visual studio 2013\Projects\Almustafa\Almustafa\obj\Debug\Almustafa.Properties.Resources.resources
+c:\users\sadaqat\documents\visual studio 2013\Projects\Almustafa\Almustafa\obj\Debug\Almustafa.csproj.GenerateResource.Cache
+c:\users\sadaqat\documents\visual studio 2013\Projects\Almustafa\Almustafa\obj\Debug\Almustafa.exe
+c:\users\sadaqat\documents\visual studio 2013\Projects\Almustafa\Almustafa\obj\Debug\Almustafa.pdb
