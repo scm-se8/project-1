@@ -28,6 +28,7 @@ namespace Almustafa
                 if (w.Text == "" || k.Text == "" || p.Text == "")
                 {
                     MessageBox.Show("Please Fill All Fields !");
+                    MessageBox.Show("learning puprpose");
                 }
                 else
                 {

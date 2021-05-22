@@ -8,3 +8,9 @@ c:\users\sadaqat\documents\visual studio 2013\Projects\Almustafa\Almustafa\obj\D
 c:\users\sadaqat\documents\visual studio 2013\Projects\Almustafa\Almustafa\obj\Debug\Almustafa.csproj.GenerateResource.Cache
 c:\users\sadaqat\documents\visual studio 2013\Projects\Almustafa\Almustafa\obj\Debug\Almustafa.exe
 c:\users\sadaqat\documents\visual studio 2013\Projects\Almustafa\Almustafa\obj\Debug\Almustafa.pdb
+C:\Users\sadaqat\Documents\GitHub\project-1\Almustafa\bin\Debug\Almustafa.exe.config
+C:\Users\sadaqat\Documents\GitHub\project-1\Almustafa\obj\Debug\Almustafa.exe
+C:\Users\sadaqat\Documents\GitHub\project-1\Almustafa\obj\Debug\Almustafa.pdb
+C:\Users\sadaqat\Documents\GitHub\project-1\Almustafa\obj\Debug\Almustafa.csprojResolveAssemblyReference.cache
+C:\Users\sadaqat\Documents\GitHub\project-1\Almustafa\obj\Debug\Almustafa.Form1.resources
+C:\Users\sadaqat\Documents\GitHub\project-1\Almustafa\obj\Debug\Almustafa.csproj.GenerateResource.Cache
