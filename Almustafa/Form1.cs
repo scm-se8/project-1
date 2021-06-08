@@ -53,6 +53,8 @@ namespace Almustafa
             catch
             {
                 MessageBox.Show("Invalid Enteries !!");
+                MessageBox.Show("double message");
+                
             }
         
 
